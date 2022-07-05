@@ -18,6 +18,9 @@ For our first analysis, we compared theater outcomes by launch date. For this we
 
             
             Resources/Theater_Outcomes_vs_Launch.png
+            
+            ![image](https://user-images.githubusercontent.com/108251290/177389599-f2a54122-e970-4223-a85b-565375ea6baf.png)
+
 
 
 
@@ -30,6 +33,9 @@ For our second analysis, we compared outcomes based on goals. We created a new d
 
             
             Resources/Outcomes_vs_Goals.png
+            
+            ![image](https://user-images.githubusercontent.com/108251290/177389509-b1b83495-3f96-4804-beec-4d75d5ea98ae.png)
+
 
 ### Challenges and Difficulties Encountered
 
