@@ -16,16 +16,20 @@ For our first analysis, we compared theater outcomes by launch date. For this we
 
 ### Theater Outcomes Based on Launch Date
 
+            
+            Resources/Theater_Outcomes_vs_Launch.png
 
-/assets/images/Theater_Outcomes_vs_Launch.png
+
 
 ### Analysis of Outcomes Based on Goals
 
 For our second analysis, we compared outcomes based on goals. We created a new data set and utilized the =CountIfs() function to populate the number of successful, failed, and canceled plays based on their intial goals. We then populated the Total Projects column using the =Sum() function and calculated their respective percentages.
 
 
-Resources/Outcomes_vs_Goals.png
 
+
+            
+            Resources/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 
