@@ -14,9 +14,10 @@ The purpose of this project is to enhance our Excel skills and take a deeper div
 
 For our first analysis, we compared theater outcomes by launch date. For this we created a new column in our Kickstarter sheet and utilized the Year() formula. This formaula extracts the year from the "Date Conversion" column". Then, we created a Pivot Table of the Kickstarter sheet for easy querying of the data present.
 
-### Theater Outcomes BAsed on Launch Date
+### Theater Outcomes Based on Launch Date
 /Users/dannyjohnson/Downloads/Resources/Theater_Outcomes_vs_Launch.png
 
+Resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
@@ -25,7 +26,7 @@ For our second analysis, we compared outcomes based on goals. We created a new d
 
 /Users/dannyjohnson/Downloads/Resources/Outcomes_vs_Goals.png
 
-
+Resources/Outcomes_vs_Goals.png
 
 
 ### Challenges and Difficulties Encountered
