@@ -16,8 +16,8 @@ For our first analysis, we compared theater outcomes by launch date. For this we
 
 ### Theater Outcomes Based on Launch Date
 
-            
-           ![Image](Resources/Theater_Outcomes_vs_Launch.png) 
+![Images](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 
