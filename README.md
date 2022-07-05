@@ -19,7 +19,7 @@ For our first analysis, we compared theater outcomes by launch date. For this we
             
             Resources/Theater_Outcomes_vs_Launch.png
             
-            ![image](https://user-images.githubusercontent.com/108251290/177389599-f2a54122-e970-4223-a85b-565375ea6baf.png)
+            ![image](Theater_Outcomes_vs_Launch.png)
 
 
 
